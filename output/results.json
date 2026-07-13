@@ -1,0 +1,502 @@
+[
+  {
+    "contract_id": "contract_0001",
+    "title": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT",
+    "summary": "This is a Distributor Agreement between Electric City Corp. and Electric City of Illinois LLC, outlining the terms and conditions for the distribution of Electric City's energy efficiency device, the Energy Saver, within the State of Illinois. Key obligations include the Distributor's exclusive right to sell and distribute the Products, the Company's obligation to sell and deliver Products to the Distributor, and the Distributor's obligation to promote the distribution, sales, and use of Products. Notable risks include the Distributor's potential liability for failure to meet minimum purchase expectations, and the Company's potential liability for failure to deliver Products on time, although liability for consequential or liquidated damages is limited unless specifically agreed upon in writing.",
+    "termination_clause": "Either party may terminate this Distributor Agreement upon 10 years, with the option to renew for up to another 10 years.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for consequential or liquidated damages pertaining to late delivery unless the other party specifically acknowledges and agrees in writing to the same.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0002",
+    "title": "WHITESMOKE,INC_11_08_2011-EX-10.26-PROMOTION AND DISTRIBUTION AGREEMENT",
+    "summary": "This is a Promotion and Distribution Agreement between Whitesmoke Inc. and Google Inc., effective as of August 1, 2011. Key obligations include Google granting Whitesmoke a license to distribute Google products, and Whitesmoke agreeing to keep the products confidential and not to modify or reverse engineer them. Notable risks include the potential for termination of the agreement and the limitation of liability for indirect or consequential damages, although this clause is not explicitly stated.",
+    "termination_clause": "The agreement may be terminated by either party upon 30 days written notice, or upon the earlier of the end of the two-year period from the Effective Date or the last day of the calendar month within which the Maximum Distribution Commitment is reached.",
+    "confidentiality_clause": "Confidential treatment has been requested for certain portions of the document, and each party must keep proprietary information confidential.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, but this clause is not explicitly stated in the contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0003",
+    "title": "LohaCompanyltd_20191209_F-1_EX-10.16_11917878_EX-10.16_Supply Agreement",
+    "summary": "This is a supply contract between Shenzhen LOHAS Supply Chain Management Co., Ltd. and the seller, with key obligations including the seller's guarantee of quality, shipment, and payment terms. Notable risks include the seller's liability for damage and loss due to improper packing, and the buyer's right to cancel the contract in case of late delivery or force majeure. The contract is governed by the law of the People's Republic of China and the United Nations Convention on Contract for the International Sale of Goods.",
+    "termination_clause": "The contract is valid for 5 years, but no specific termination clause is mentioned.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "The seller is liable for any damage and loss of the commodity due to improper packing, and any damage attributable to inadequate or improper protective measures taken by the seller.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0004",
+    "title": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT",
+    "summary": "This is a web site hosting agreement between Centrack International and i-on interactive, where i-on provides hosting services for Centrack's web site, including connectivity, hosting computer, and software maintenance, for a recurring monthly fee of $450. The Customer is responsible for all content, customer support, marketing, and security of the Hosted Site. Notable risks include data loss, interruptions in service, and liability limitations.",
+    "termination_clause": "Either party may terminate this Agreement without cause at any time effective upon thirty (30) days' written notice.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "i-on's liability for damages to the Customer for any cause whatsoever shall be limited to one (1) month's fees and the remaining portion of any prepaid fees.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0005",
+    "title": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT",
+    "summary": "This is a Joint Filing Agreement between the undersigned parties, primarily obligating them to jointly prepare and file Schedule 13G or Schedule 13D with regulatory authorities, and to ensure the completeness and accuracy of their respective information. Notable risks include potential inaccuracies in the information provided by other parties, which may not be subject to verification.",
+    "termination_clause": "Not specified in this contract.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Each party is responsible for the completeness and accuracy of their own information, but not for the accuracy of the other party's information.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0006",
+    "title": "ADAMSGOLFINC_03_21_2005-EX-10.17-ENDORSEMENT AGREEMENT",
+    "summary": "This is an endorsement agreement between professional golfer TOM WATSON and ADAMS GOLF, LTD. Key obligations include CONSULTANT'S exclusive use of ADAMS GOLF PRODUCT, promotion of ADAMS GOLF PRODUCT, and cooperation with ADAMS GOLF in product design and testing. Notable risks include CONSULTANT'S potential repayment of base compensation if he fails to achieve a satisfactory record of play in a minimum number of professional golf association events, and ADAMS GOLF's right to terminate the agreement if CONSULTANT engages in conduct that materially reduces or impairs the value of his endorsement.",
+    "termination_clause": "Either party may terminate this Agreement upon written notice within 90 days of ADAMS GOLF's senior management becoming aware of conduct giving rise to termination.",
+    "confidentiality_clause": "Confidential information and material have been redacted and filed separately with the Commission, and each party must keep proprietary information confidential.",
+    "liability_clause": "CONSULTANT agrees to protect, indemnify, and hold ADAMS GOLF harmless from any liability, claims, or damages resulting from a breach of any covenant or representation by CONSULTANT.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0007",
+    "title": "KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT",
+    "summary": "This is a consulting agreement between Kiromic, Inc. and Gianluca Rotino, where Rotino provides consulting services in exchange for compensation. Key obligations include confidentiality, ownership of inventions, and reporting progress. Notable risks include Consultant's potential conflicts of interest and obligations to third parties, as well as the indemnification requirement.",
+    "termination_clause": "Either party may terminate this Consulting Agreement upon prior written notice to the other party.",
+    "confidentiality_clause": "Each party must keep proprietary information confidential, with certain exceptions for information already known to the Consultant or publicly disclosed.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, but Consultant must indemnify Company against claims arising from Consultant's violation of third-party rights.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0008",
+    "title": "VEONEER,INC_02_21_2020-EX-10.11-JOINT VENTURE AGREEMENT",
+    "summary": "This is an amendment and termination of a joint venture agreement between Veoneer Parties and Nissin Parties, primarily affecting the termination of the agreement with respect to Veoneer Parties' involvement in VNBJ and VNBZ. Key obligations include the Nissin Parties' agreement to indemnify Directors and Officers of VNBJ and VNBZ for liabilities arising prior to the VNBJ Closing or the VNBZ Closing. Notable risks include the potential for continued liability for the Veoneer Parties and the Nissin Parties for breaches of the joint venture agreement prior to the termination.",
+    "termination_clause": "The joint venture agreement will terminate in its entirety with respect to the Veoneer Parties upon the later of the VNBJ Closing and the VNBZ Closing.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "The Veoneer Parties and the Nissin Parties will remain liable for the breach of any representations, warranties, covenants, or agreements set forth in the joint venture agreement that arise prior to the VNBJ Closing or the VNBZ Closing.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0009",
+    "title": "DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement",
+    "summary": "This is a Co-Promotion Agreement between Dova Pharmaceuticals, Inc. and Valeant Pharmaceuticals North America LLC, dated September 26, 2018, where the parties collaborate on promotional activities for a pharmaceutical product in the Territory. Key obligations include Dova's responsibility for regulatory, safety, and surveillance matters, while Valeant is responsible for conducting promotional activities. Notable risks include potential liability for breaches of confidentiality or intellectual property rights, and compliance with applicable laws and regulations.",
+    "termination_clause": "Either party may terminate this Co-Promotion Agreement upon 30 days written notice, subject to certain conditions.",
+    "confidentiality_clause": "Each party must keep confidential all proprietary information, including trade secrets and know-how, disclosed by the other party.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except for breaches of confidentiality or intellectual property rights.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0010",
+    "title": "PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT ",
+    "summary": "This is an amended and restated strategic licensing, distribution, and marketing agreement between Pacira Pharmaceuticals, Inc. and EKR Therapeutics, Inc. Key obligations include EKR's exclusive right to sell, offer to sell, distribute, and market the Product in the Territory, and PPI's obligation to provide marketing authorizations and transfer title to manufacturing equipment. Notable risks include the parties' liability for damages, including indirect and consequential damages, except in cases of gross negligence or willful misconduct. The agreement also includes provisions for confidentiality, termination, and dispute resolution.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice, subject to certain conditions and obligations.",
+    "confidentiality_clause": "Each party must keep confidential information, data, and materials disclosed by the other party or its affiliates, excluding information that becomes public or is already in its possession.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except in cases of gross negligence or willful misconduct.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0011",
+    "title": "MetLife, Inc. - Remarketing Agreement",
+    "summary": "This is a Remarketing Agreement between MetLife, Inc. and Deutsche Bank Securities Inc. for the remarketing of Series E Senior Component Debentures. Key obligations include the Remarketing Agents' commercially reasonable efforts to remarket the securities and establish Reset Rates. Notable risks include the potential for unsuccessful remarketing, which may result in the Remarketing Agents not receiving the minimum Remarketing Price.",
+    "termination_clause": "The Remarketing Agreement may be terminated upon written notice by either party, but specific termination procedures are not specified in this contract.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, but specific liability limitations are not explicitly stated in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0012",
+    "title": "FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT",
+    "summary": "This is a strategic alliance agreement between EDGE Communications Solutions, LLC and FTE Networks, Inc. for labor, materials, equipment, and services for a communications service provider, Mediacom, LLC. Key obligations include FTE's performance of work in accordance with Purchase Orders and EDGE's payment for completed work. Notable risks include potential liens and claims by lower-tier subcontractors, which EDGE may deduct from payments due to FTE.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days prior written notice after the Initial Term.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0013",
+    "title": "DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT",
+    "summary": "This is a sponsorship agreement between Domini Advisor Trust and Domini Social Investments LLC, where Domini provides oversight, administrative, and management services to the Trust. Key obligations include Domini's duties to perform services as reasonably requested by the Trust, and the Trust's obligation to pay Domini a fee equal to 0.50% of its average daily net assets. Notable risks include the Sponsor's limitation of liability, which excludes errors of judgment and mistakes of law, except in cases of willful misfeasance, bad faith, or gross negligence.",
+    "termination_clause": "The agreement may be terminated by either party with 60 days' written notice.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "The Sponsor is not liable for errors of judgment, mistakes of law, or acts of omission, except for willful misfeasance, bad faith, or gross negligence.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0014",
+    "title": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3",
+    "summary": "This is a non-disclosure and non-competition agreement between a Franchisee and its personnel, outlining key obligations to protect the Franchisor's confidential information and business interests. The Member must not engage in competitive business activities, including owning or managing a competing restaurant, during the term of the Franchise Agreement and a two-year post-term period. Notable risks include the Member's potential liability for breaching the agreement, including paying court costs and attorney's fees incurred by the Franchisor in obtaining specific performance or an injunction.",
+    "termination_clause": "Not specified in this contract.",
+    "confidentiality_clause": "The Member must keep confidential information, including trade secrets and know-how, from being disclosed or used for any purpose other than operating the Franchised Business.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0015",
+    "title": "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement",
+    "summary": "This is an intellectual property agreement between Nuance Communications, Inc. and Cerence Inc., dated September 30, 2019, outlining the transfer of intellectual property rights, licenses, and covenants between the parties. Key obligations include the recording of intellectual property rights assignments, the grant of licenses, and the confidentiality of technical information. Notable risks include the limitation of liability for indirect or consequential damages, and the potential for termination of the agreement upon written notice.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice, as specified in Section 9.01.",
+    "confidentiality_clause": "Each party must keep confidential technical information, including data, trade secrets, and technology source code, confidential, as defined in Section 6.01.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, as specified in Section 7.01.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0016",
+    "title": "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement",
+    "summary": "This is an endorsement contract between Thrivent Financial for Lutherans and the contract holder, transferring all assets and liabilities from Thrivent Life Insurance Company. Key obligations include making extra payments if the Society's solvency is impaired, and Thrivent Financial for Lutherans will determine the amount and method of payment. Notable risks include the potential for extra payments and the impact of the Society's solvency on contract benefits. The contract holder also has limited membership rights and privileges, and dividends are not expected to be credited.",
+    "termination_clause": "Not specified in this contract.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0017",
+    "title": "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement",
+    "summary": "This is a Master Supply Agreement between Reynolds Consumer Products LLC and Pactiv LLC, establishing the terms and conditions for the purchase and sale of products between the parties. Key obligations include compliance with standard operating procedures, general representations and warranties, and specific product warranties. Notable risks include the potential for termination of the agreement, non-compliance with warranties and representations, and liability for indirect or consequential damages.",
+    "termination_clause": "Either party may terminate this Agreement upon written notice, with the rights and obligations of the parties surviving termination for certain specified purposes.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as provided in Section 2-609 of the Illinois Uniform Commercial Code.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0018",
+    "title": "IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement",
+    "summary": "This is a distribution and services agreement between the Integrity Short Term Government Fund and Integrity Funds Distributor, LLC, where Integrity acts as the principal underwriter of shares issued by the Fund. Key obligations include Integrity's duty to use best efforts to solicit orders for the sale of shares, and the Fund's obligation to provide information and execute documents necessary for the qualification of shares for sale. Notable risks include the Fund's potential liability for untrue statements in the registration statement, and the parties' reliance on each other's representations and warranties.",
+    "termination_clause": "Either party may terminate this Agreement upon 15 days written notice from Integrity to the Fund, or upon the Fund's failure to propose amendments to the registration statement as requested by Integrity.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as otherwise provided in the Agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0019",
+    "title": "PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT",
+    "summary": "This is an Intellectual Property Agreement between Marv Enterprises, LLC, Premier Biomedical, Inc., and Technology Health, Inc. for the development and commercialization of a COVID-19 treatment. Key obligations include THI's exclusive licensing of Marv's patent applications, payment of license fees and royalties, and reimbursement of intellectual property prosecution costs. Notable risks include the potential for license termination and reversion of intellectual property rights if THI fails to pay IP costs or royalties.",
+    "termination_clause": "Either party may terminate this Agreement upon 90 days written notice to the other party.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as otherwise provided in this Agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0020",
+    "title": "SIBANNAC,INC_12_04_2017-EX-2.1-Strategic Alliance Agreement",
+    "summary": "This is a Strategic Alliance Agreement between Bravatek Solutions, Inc. and Sibannac, Inc. Key obligations include Bravatek serving as a non-exclusive project sales lead finder for Sibannac, and Sibannac promoting and supporting Bravatek's project lead finding and after-sales support. Notable risks include indemnification for damages arising from negligence or intentional misconduct, and confidentiality obligations for a period of five years after termination. The agreement has a 12-month term with automatic renewal unless terminated by either party with 90 days written notice.",
+    "termination_clause": "Either party may terminate this Agreement upon 90 days written notice.",
+    "confidentiality_clause": "The parties agree to maintain in strict confidence and not disclose or disseminate confidential information for a period of five years after termination.",
+    "liability_clause": "Neither party is liable for damages, costs, expenses, and other liabilities arising from the negligence or intentional misconduct of the other party.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0021",
+    "title": "INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement",
+    "summary": "This is a Strategic Alliance Agreement between IntriCon Corporation and Dynamic Hearing Pty Ltd, outlining the principles and understanding of the parties to collaborate on producing DSP Technology products for the Hearing Health, Assisted Listening Device, and Professional Communications markets. Key obligations include IntriCon's license to use Dynamic Hearing's Technology, Software, and Documentation to manufacture and sell products, and Dynamic Hearing's obligation to provide technology transfer and support services. Notable risks include the exclusivity clause, which may limit Dynamic Hearing's ability to enter into agreements with other parties, and the lack of liability specification, which may leave parties vulnerable to unforeseen consequences.",
+    "termination_clause": "The initial term of this agreement is five years, and it may be extended subject to satisfactory agreement on ongoing commercial terms.",
+    "confidentiality_clause": "Each party must keep confidential information in relation to the other party, including business activities, whether disclosed orally, visually, or in writing.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0022",
+    "title": "BONTONSTORESINC_04_20_2018-EX-99.3-AGENCY AGREEMENT",
+    "summary": "This is an agency agreement between The Bon-Ton Stores, Inc. and its associated chapter 11 debtors in possession, and a contractual joint venture comprised of GA Retail, Inc. and Tiger Capital Group, LLC. Key obligations include the joint venture acting as the exclusive agent for the sale of The Bon-Ton's assets, including merchandise, furniture, and real estate. Notable risks include the potential for disputes over the sale of assets and the distribution of proceeds among creditors.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0023",
+    "title": "ON2TECHNOLOGIES,INC_11_17_2006-EX-10.3-SUPPORT AND MAINTENANCE AGREEMENT",
+    "summary": "This is a Support and Maintenance Agreement between On2 Technologies, Inc. and Wildform, Inc., where Wildform provides transition services and software deliverables to On2 in exchange for payment and stock shares. Key obligations include Wildform's provision of transition services and software deliverables, and On2's payment and acceptance of these deliverables. Notable risks include Program Errors, which Wildform must resolve, and the confidentiality obligations of both parties.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Each party must keep Confidential Information confidential, excluding information that is or becomes generally available to the public or was rightfully in the possession of the Receiving Party prior to disclosure.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except for Program Errors, which Wildform must resolve during the Term.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0024",
+    "title": "Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting Agreement",
+    "summary": "This is a Website Design, Development and Hosting Agreement between FreeCook and Mitchell's Web Advance, PLC. Key obligations include Client paying $5,000 for website design and development, and Company delivering the website within 12 weeks. Notable risks include Client's responsibility for proofreading and correcting written content, and Company's right to use Client's trade names and logos for marketing purposes.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as explicitly stated in the Agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0025",
+    "title": "OPERALTD_04_30_2020-EX-4.14-SERVICE AGREEMENT",
+    "summary": "This is a service agreement between PC Financial Services Private Limited and Mobimagic Co., Ltd. Key obligations include PC Financial paying a monthly fee to Mobimagic for system/platform maintenance and data processing services. Notable risks include Mobimagic's disclaimers of warranties and liability for unforeseen contingencies related to data storage and retention. The agreement also includes confidentiality and non-disclosure obligations, as well as restrictions on the use of the services.",
+    "termination_clause": "Either party may terminate this Service Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Each party must keep proprietary information confidential, excluding information already known, publicly available, or independently developed.",
+    "liability_clause": "Neither party is liable for unforeseen contingencies, claims, liabilities, demands, losses, damages, or expenses arising from the absence of storage or retention of PC Financial data.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0026",
+    "title": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT",
+    "summary": "This is a joint venture agreement between BorrowMoney.com, inc and JVLS, LLC dba Vaccines 2Go, with a term from March 1, 2020 to February 28, 2025. Key obligations include managing the day-to-day business, monitoring financial affairs, and contributing capital. Notable risks include liability for breach of the agreement, termination of the venture, and potential losses due to member actions or inactions.",
+    "termination_clause": "The joint venture may be terminated upon expiration of the term, unanimous vote by the members, or dissolution due to various reasons.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Each member will indemnify the remaining members against losses, costs, and claims arising from breach of the agreement or termination of the venture.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0027",
+    "title": "ZEBRATECHNOLOGIESCORP_04_16_2014-EX-10.1-INTELLECTUAL PROPERTY AGREEMENT",
+    "summary": "This is an Intellectual Property Agreement between Motorola Solutions, Inc. and Zebra Technologies Corporation, where Motorola Solutions assigns certain intellectual property to Zebra Technologies as part of a larger acquisition. Key obligations include the transfer of assigned intellectual property, licensing of certain intellectual property, and the assumption of liabilities related to the assigned intellectual property. Notable risks include the potential for disputes over intellectual property ownership and the impact of changes in control on the agreement.",
+    "termination_clause": "Not specified in this contract.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0028",
+    "title": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+    "summary": "This is a Domain Name and Content License Agreement between Beijing SINA Internet Information Service Co., Ltd. (Licensor) and Beijing Yisheng Leju Information Services Co., Ltd. (Licensee), where Licensor grants Licensee an exclusive license to use certain domain names and content in connection with an online real estate media platform in China. Key obligations include Licensee's use of the Licensed Domain Names and Content, and compliance with the terms and conditions of this Agreement. Notable risks include potential disputes and changes in control, which may impact the Agreement.",
+    "termination_clause": "Either party may terminate this Domain Name and Content License Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Each party must keep confidential information, including the Licensed Content and Licensed Domain Names, confidential.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as provided in Section 10.12.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0029",
+    "title": "HERTZGLOBALHOLDINGS,INC_07_07_2016-EX-10.4-INTELLECTUAL PROPERTY AGREEMENT",
+    "summary": "This is an Intellectual Property Agreement between The Hertz Corporation, Hertz System, Inc., and Herc Rentals Inc. regarding the separation of their Vehicle Rental Business and Equipment Rental Business. Key obligations include the transfer, licensing, and use of trademarks and domain names. Notable risks include the potential for confusion in the marketplace during the Interim Period and the need for cooperation between the parties to ensure compliance with the terms of the Agreement.",
+    "termination_clause": "Either party may terminate this Agreement upon expiration of the Interim Period or earlier termination of related agreements.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0030",
+    "title": "GLOBALTECHNOLOGIESLTD_06_08_2020-EX-10.16-CONSULTING AGREEMENT",
+    "summary": "This is a consulting agreement between Global Technologies, Ltd and Timothy Cabrera, an individual consultant. Key obligations include the consultant providing various services to the company, including further development of the business plan, seeking acquisition opportunities, and assisting with day-to-day tasks. Notable risks include the company's potential liability for the consultant's negligence, and the consultant's exclusive liability for complying with all applicable state and federal laws governing self-employed individuals.",
+    "termination_clause": "Either party may terminate this agreement without notice in the event of bankruptcy, insolvency, or assignment for the benefit of creditors, or with notice for any other reason.",
+    "confidentiality_clause": "The consultant and the company must keep each other's proprietary information secret and confidential, and not disclose it without prior written consent.",
+    "liability_clause": "The indemnifying party must indemnify, defend, and hold harmless the other party from claims, damages, and liabilities caused by the negligent act or omission of the indemnifying party.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0031",
+    "title": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1",
+    "summary": "This is a franchise agreement between Pizza Fusion Holdings, Inc. and the Franchisee, granting the right to operate a \"Pizza Fusion\" restaurant business at a specified location. Key obligations include operating the business in accordance with the franchisor's standards and procedures, and adhering to the terms of the agreement. Notable risks include potential termination of the agreement, restrictions on competition, and indemnification obligations.",
+    "termination_clause": "Either party may terminate this franchise agreement upon 30 days written notice.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0032",
+    "title": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+    "summary": "This is a software licensing agreement between Corio Inc. and Commerce One, Inc. where Corio obtains a license to use and host Commerce One's proprietary software, with key obligations including hosting services, joint marketing, and support. Notable risks include Corio's liability for indirect or consequential damages, which is not specified in the contract, and Commerce One's retention of all rights, title, and interest in the software.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0033",
+    "title": "TUNIUCORP_03_06_2014-EX-10-COOPERATION AGREEMENT",
+    "summary": "This is a cooperation agreement between Nanjing Tuniu Technology Co., Ltd. and Beijing Tuniu Technology Co., Ltd. for the internet-based sale and promotion of tour products. Key obligations include Party B providing technical consultancy and services to Party A, and Party A allocating proceeds generated from cooperation in accordance with the agreement. Notable risks include the potential for liquidated damages and specific performance in case of a breach, and the waiver of rights to terminate the agreement under certain circumstances.",
+    "termination_clause": "Either party may terminate this agreement prior to the expiration of the term of cooperation under specific circumstances.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect loss or damage caused by a breach of the agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0034",
+    "title": "CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT",
+    "summary": "This is a promotion agreement between CNET, Inc. and Cyberian Outpost, Inc. for online and television promotions to facilitate the sale of products through Cyberian Outpost's Internet site. Key obligations include CNET's provision of links and promotions, and Cyberian Outpost's operation of its site and payment of cash consideration based on sales generated from CNET's promotions. Notable risks include the potential for material breach of obligations, which may result in termination of the agreement.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as otherwise provided in the contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0035",
+    "title": "SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement",
+    "summary": "This is a collaboration agreement between Didi Chuxing Technology Co., Ltd. and Hunan Ruixi Financial Leasing Co., Ltd. for a vehicle leasing service on Didi's platform. Key obligations include Didi maintaining the platform, and Hunan Ruixi providing vehicles that meet safety specifications and complying with platform rules. Notable risks include Didi's right to inspect and remove information, and Hunan Ruixi's liability for vehicle safety and compliance with laws.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice to the other party.",
+    "confidentiality_clause": "Each party must keep proprietary information, including business information and user profiles, confidential.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages arising from the Agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0036",
+    "title": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement",
+    "summary": "This is a software licensing agreement between Vayyar Imaging Ltd. and Inde Living Holdings, Inc., where Vayyar appoints Inde as a non-exclusive reseller of its products in a specified territory. Inde's key obligations include complying with laws, using approved materials, attending training, and ensuring End Users sign the End User Agreement. Notable risks include Reseller's liability for End User non-compliance and Supplier's retention of intellectual property rights.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Each party must maintain the confidentiality of the other's proprietary information and trade secrets.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as prohibited by applicable laws.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0037",
+    "title": "LOYALTYPOINTINC_11_16_2004-EX-10.2-RESELLER AGREEMENT",
+    "summary": "This is a Reseller Agreement between American Express Incentive Services and Schoolpop, Inc. for the resale of stored value cards to nonprofit organizations in the United States. Key obligations include Schoolpop's exclusive right to resell cards in the NPO Marketplace, inventory management and forecasting, and payment of marketing rights and other fees. Notable risks include penalties for inventory and customer service shortfalls, and the potential for AEIS to terminate the Agreement if Schoolpop fails to meet its obligations.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice, or earlier if Schoolpop fails to fund the Guaranteed Minimum.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, but AEIS may assess penalties for inventory and customer service shortfalls.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0038",
+    "title": "BNCMORTGAGEINC_05_17_1999-EX-10.4-LICENSING AND WEB SITE HOSTING AGREEMENT",
+    "summary": "This is a software licensing agreement between Mortgage Logic.com, Inc. (Client) and TrueLink, Inc. (TrueLink) for access to TrueLink's interface software and credit bureau information. Key obligations include Client's payment of fees for hosting and support services, and TrueLink's provision of technical support and programming customization services. Notable risks include TrueLink's disclaimer of liability for the truth or completeness of credit data transmitted to Client.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Client and TrueLink must keep each other's proprietary information confidential.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as otherwise specified in the Agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0039",
+    "title": "ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT",
+    "summary": "This is a Strategic Alliance Agreement between Dialog Semiconductor and Energous Corporation, outlining a partnership for the distribution of Energous products and technology, with key obligations including the sharing of confidential information, joint marketing efforts, and the manufacture of products. Notable risks include the potential for Epidemic Defects, Insolvency Events, and changes in control of either party. The agreement also includes provisions for the protection of intellectual property rights and the resolution of disputes.",
+    "termination_clause": "Either party may terminate upon 30 days written notice, or upon occurrence of a Change of Control.",
+    "confidentiality_clause": "Confidential information contained in this document is subject to confidential treatment and may not be disclosed without prior written consent.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except in the event of a breach of confidentiality or intellectual property rights.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0040",
+    "title": "CytodynInc_20200109_10-Q_EX-10.5_11941634_EX-10.5_License Agreement",
+    "summary": "This is a Commercialization and License Agreement between Vyera Pharmaceuticals, LLC and CytoDyn Inc., where Vyera will Commercialize CytoDyn's leronlimab (PRO 140) drug candidate for the treatment of multi-drug resistant HIV infection, in exchange for royalties and other payments. Key obligations include Commercialization of the Licensed Product, payment of royalties, and confidentiality of proprietary information. Notable risks include Commercial Failure, Biosimilar Entry, and Change of Control, which may trigger termination or other consequences.",
+    "termination_clause": "Either party may terminate this Agreement upon 30 days written notice, subject to certain conditions and exceptions.",
+    "confidentiality_clause": "Each party must keep proprietary information, including the terms and conditions of this Agreement, confidential.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except in the case of gross negligence or willful misconduct.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0041",
+    "title": "MSCIINC_02_28_2008-EX-10.10-",
+    "summary": "",
+    "termination_clause": "Not specified in this contract.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Each party is liable only for direct damages and excludes liability for special, indirect, incidental, consequential, or punitive damages.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0042",
+    "title": "NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT",
+    "summary": "This is a Manufacturing Outsourcing Agreement between Nice Systems Ltd. and Flextronics Israel Ltd., where Nice outsources manufacturing services for digital recording products to Flextronics. Key obligations include Flextronics providing world-class quality and capability services, and Nice acquiring inventory related to the operations to be outsourced. Notable risks include liability for indirect or consequential damages, and the need for confidentiality and non-disclosure of proprietary information.",
+    "termination_clause": "Either party may terminate this Manufacturing Outsourcing Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Each party must keep proprietary information, including NICE Proprietary Information and Contractor's Proprietary Information, confidential.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as otherwise specified in the Agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0043",
+    "title": "ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding Agreement",
+    "summary": "This is a Co-Branding Agreement between VerticalNet, Inc. and Impresse Corporation, where they will create a Co-Branded Site for commercial printing services. Key obligations include design, layout, development, hosting, and maintenance of the Co-Branded Site by both parties. Notable risks include potential liability for indirect or consequential damages, and the need for Year 2000 Compliant software.",
+    "termination_clause": "Either party may terminate this Co-Branding Agreement upon 30 days written notice.",
+    "confidentiality_clause": "Each party must keep proprietary information confidential, excluding Co-Branded Content and this Agreement.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as otherwise provided in this Agreement.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0044",
+    "title": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement",
+    "summary": "This is a joint content license agreement between WPT Enterprises, Inc. and Zynga, a Delaware corporation, for the promotion of each other's products and services worldwide, excluding Asian countries. Key obligations include Zynga's payment of an annual minimum guarantee of $3,000,000 and a 10% royalty on net revenue from the WPT-branded Zynga Poker Tournament Mode. Notable risks include the potential for indirect or consequential damages, although this is not explicitly stated in the contract. The agreement has a three-year initial term, with the possibility of a two-year extension.",
+    "termination_clause": "This agreement will terminate after three years, but may be extended for an additional two years if WPT receives payments greater than $12,000,000 within the initial term.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, but this clause is not explicitly stated in the provided contract text.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0045",
+    "title": "CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement",
+    "summary": "This is a Strategic Alliance Agreement between Freedom Mortgage Corporation and Cherry Hill Mortgage Investment Corp. Key obligations include Freedom Mortgage's servicing of mortgage loans and Cherry Hill's access to capital. Notable risks include the occurrence of a Standby Trigger Event, which could lead to termination of the agreement. The parties will also enter into Ancillary Agreements, including the Purchase Agreement and the Flow Agreement, to facilitate their strategic alliance.",
+    "termination_clause": "Either party may terminate this Strategic Alliance Agreement upon the occurrence of a Standby Trigger Event.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, except as otherwise provided in the Ancillary Agreements.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0046",
+    "title": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+    "summary": "This is a Chase Affiliate Agreement between Chase Bank USA, N.A. and an Affiliate, outlining the terms and conditions for participation in the Chase Affiliate Program. Key obligations include adhering to restricted content guidelines, using approved links, and not using spyware or manipulating keyword searches. Notable risks include termination of the Agreement for non-compliance, and liability for damages, although the extent of liability is not specified.",
+    "termination_clause": "Either party may terminate this Agreement at any time, with or without cause, by giving the other party written or e-mail notice of termination.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, but the contract does not specify the extent of liability.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0047",
+    "title": "GALACTICOMMTECHNOLOGIESINC_11_07_1997-EX-10.46-WEB HOSTING AGREEMENT",
+    "summary": "This is a web hosting agreement between Galacticomm and Horst Entertainment Inc. Key obligations include Galacticomm providing 24/7 technical support and Horst Entertainment paying per-access fees. Notable risks include the potential for disputes and the requirement for Horst Entertainment to purchase a software license upon termination. The agreement does not specify confidentiality or liability terms, and disputes will be settled in a Florida court.",
+    "termination_clause": "Galacticomm may terminate the agreement, and Horst Entertainment has the right to purchase a software license for $15,000 upon termination.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Not specified in this contract.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0048",
+    "title": "Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT",
+    "summary": "This is a manufacturing, design, and marketing agreement between Zounds Hearing, Inc. and InnerScope Hearing Technologies, Inc. Key obligations include Zounds paying a $1 million technology access fee, manufacturing and supplying hearing aids to InnerScope, and jointly marketing and selling each other's products. Notable risks include potential third-party royalties for technology, engineering changes, and inventory management.",
+    "termination_clause": "The agreement may be terminated by either party with at least sixty days written notice, with automatic renewal for successive one-year terms unless terminated.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, but this clause does not provide a comprehensive overview of liability limitations.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0049",
+    "title": "CUROGROUPHOLDINGSCORP_05_04_2020-EX-10.3-SERVICING AGREEMENT",
+    "summary": "This is a servicing agreement between CURO RECEIVABLES FINANCE II, LLC (Owner) and CURO MANAGEMENT, LLC (Servicer) for the servicing of receivables and participation interests. Key obligations include the Servicer's duty to service and administer the assets with reasonable care and in compliance with applicable law. Notable risks include the Owner's liability for the Servicer's actions, except for willful misconduct, bad faith, or gross negligence, and the potential for termination of the agreement upon specified events.",
+    "termination_clause": "The Servicer may resign with 60 days' notice, and the Owner may terminate the Servicer upon written notice for specified defaults or insolvency events.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "The Owner shall indemnify the Servicer and its affiliates from liabilities arising from the Servicer's actions under the Agreement, except for willful misconduct, bad faith, or gross negligence.",
+    "status": "success",
+    "error": ""
+  },
+  {
+    "contract_id": "contract_0050",
+    "title": "SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate Agreement",
+    "summary": "This is an Affiliate Program agreement between element 5 and Web site owners or Software Publishers, where the Affiliate receives result-dependent Advertising Cost Compensation for publishing electronic advertisements on their Web site. Key obligations include integrating the product link, indicating the Affiliate's role, and maintaining the content and style of product information. Notable risks include the potential for typographical errors on the Affiliate's Web site, and the possibility of the Affiliate being liable for indirect or consequential damages, although this is not explicitly stated in the contract.",
+    "termination_clause": "Either party may terminate upon 30 days written notice, as not explicitly stated in this contract.",
+    "confidentiality_clause": "Not specified in this contract.",
+    "liability_clause": "Neither party is liable for indirect or consequential damages, as not explicitly stated in this contract.",
+    "status": "success",
+    "error": ""
+  }
+]

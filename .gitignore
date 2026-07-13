@@ -5,7 +5,7 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
-output/
+# output/   ← keeping results for submission
 data/
 *.log
 .DS_Store
