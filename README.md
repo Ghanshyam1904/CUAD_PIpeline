@@ -143,16 +143,18 @@ cuad-contract-pipeline/
 
 ## Quick Start
 
+> **Note for evaluators:** Pre-computed results for all 50 contracts are already available in `output/results.csv` and `output/results.json` — no need to re-run the pipeline unless you want to verify it.
+
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo-url>
-cd cuad-contract-pipeline
+git clone https://github.com/Ghanshyam1904/CUAD_PIpeline.git
+cd CUAD_PIpeline
 
-# Create virtual environment
-python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # macOS/Linux
+# Create virtual environment (optional but recommended)
+python -m venv myenv
+myenv\Scripts\activate          # Windows
+# source myenv/bin/activate     # macOS/Linux
 
 pip install -r requirements.txt
 ```
@@ -170,7 +172,7 @@ Get a free key at **https://console.groq.com/** (no credit card needed).
 ### 3. Download CUAD data
 
 ```bash
-# Download data.zip from GitHub and extract to data/
+# Download data.zip and extract to data/
 # https://github.com/TheAtticusProject/cuad/raw/main/data.zip
 mkdir data
 # Extract data.zip contents into data/
